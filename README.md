@@ -1,4 +1,4 @@
-List of references:
+List of references
 
 Models:
 - VideoPose3D: 3D human pose estimation in video with temporal convolutions and semi-supervised training, D. Pavllo et. al., 2019, Conference on Computer Vision and Pattern Recognition (CVPR)
